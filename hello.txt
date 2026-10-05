@@ -3,6 +3,4 @@ I am learning Git step by step.
 i am a student at a TKIET
 This change was made on my computer
 royal.
-I am getting better at Git!
-I am getting better at Git!
 I am getting better at Git! 
