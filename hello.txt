@@ -1,5 +1,5 @@
 Hello GitHub!
 I am learning Git step by step.
-Hello GitHub!
-I am learning Git and GitHub step by step.
-i ama student at a TKIET
+i am a student at a TKIET
+This change was made on my computer
+royal.
